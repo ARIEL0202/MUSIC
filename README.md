@@ -1,9 +1,6 @@
 # MUSIC
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="USA",Bluegrass 4U 
-https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 
@@ -12,6 +9,9 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U 
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="USA",Bluegrass 4U 
+https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="PERU",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
@@ -37,7 +37,7 @@ https://nrpus.bozztv.com/36bay2/gusa-mvptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="USA",Planet Music
 https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7VSgAQu.png" group-title="USA",Street Music 4U (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VSgAQu.png" group-title="USA",Street Music 4U 
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="UK",Afrobeats
@@ -49,7 +49,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SztpK9s.png" group-title="GERMANY",Deutsches Musik Fernsehen (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SztpK9s.png" group-title="GERMANY",Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="GERMANY",Radio Weser TV Bremen
@@ -67,7 +67,7 @@ http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HKK3Ww5.png" group-title="NETHERLANDS",Radio Veronica
 http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9fR1Gfh.png" group-title="ITALY",Company TV (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9fR1Gfh.png" group-title="ITALY",Company TV 
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3HNMYb.png" group-title="ITALY",DeeJay TV
@@ -84,9 +84,6 @@ https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playli
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="ITALY",Radio 51 Lombardia
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kzvsNo2.png" group-title="ITALY",Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FUoyfCK.png" group-title="ITALY",Radio Capital 
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
@@ -105,9 +102,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zess4Q.png" group-title="ITALY",Radio Universal TV Catania
-http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLBLh4j.png" group-title="ITALY",Radionorba TV (Opt-1)
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
@@ -145,7 +139,7 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="ARGENTINA",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title= RU TV
+#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="",RU TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="USA",REVOLT MUSIC
