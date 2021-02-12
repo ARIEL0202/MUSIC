@@ -291,7 +291,7 @@ http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" group-title="Musicales",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title=Musicales"",Info TDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="Musicales",Info TDN
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="Musicales",Arirang (KR) 
