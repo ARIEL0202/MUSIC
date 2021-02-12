@@ -136,13 +136,13 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjsCMFv.png" group-title="Musicales",LA 90 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V7DEzNK.png" group-title=Musicales"",Music Top
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V7DEzNK.png" group-title="Musicales",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales",Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title=Musicales"",Tierramia TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="Musicales",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Musicales",REVOLT MUSIC
@@ -285,15 +285,15 @@ http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="Musicales",Suram TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8iDabJk.png" group-title="PARAGUAY",Farra Play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8iDabJk.png" group-title="Musicales",Farra Play
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" group-title="COSTA RICA",88 Stereo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" group-title="Musicales",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="DOMINICAN REPUBLIC",Info TDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title=Musicales"",Info TDN
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="Musicales",Arirang (KR) 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
