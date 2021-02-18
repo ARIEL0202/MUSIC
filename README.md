@@ -34,6 +34,15 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1 tvg-logo="http://wmeb.ajolsenportfolio.com/wp-content/themes/wmeb919/img/logo.png" group-title="RADIO",Hotmixradio 80´S
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="5USA HD" tvg-logo="" group-title="Musicales",5USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+
+#EXTINF:-1 tvg-id="" tvg-name="XITEROCK" tvg-logo="" group-title="Musicales",XITEROCK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+
+#EXTINF:-1 tvg-id="" tvg-name="XITEVIBE" tvg-logo="" group-title="Musicales",XITEVIBE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="VideoDJ", Yearmix2009
 https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
 
