@@ -54,44 +54,20 @@ https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV EN
 https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
 
-#EXTINF:-1 tvg-id="109955" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="Musicales", Best Cable Music
-https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="Musicales", Mezzo Live
 http://ott-cdn.ucom.am/s35/index.m3u8
 
 #EXTINF:-1 tvg-id="96700" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png" group-title="Musicales", Telemusica
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="126531" tvg-name="Wham TV" tvg-logo="https://lh3.googleusercontent.com/-Ch8kkgRHNHA/YBLumtwud3I/AAAAAAAA_eo/RiLzze_0hhYZ4iyMq6FwjeeqJ6eMJE6MACK8BGAsYHg/s0/2021-01-28.png" group-title="Musicales", Wham TV
-https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109955" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="Musicales", Best Cable Music
+https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="98988" tvg-name="La Popular TV" tvg-logo="https://lh3.googleusercontent.com/-JXvAv4nY-K8/XnTXs1clGLI/AAAAAAAAxCw/ntmMdCu1UQEXtAHPFrYyW8I1l5bRGiAWwCK8BGAsYHg/s0/2020-03-20.png" group-title="Musicales", La Popular TV
 https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="109954" tvg-name="Más Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="Musicales", Más Cumbia
 https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="109611" tvg-name="Peña Visión TV" tvg-logo="https://lh3.googleusercontent.com/--6Jibb1WJOo/X5i6rpI7pTI/AAAAAAAA6yY/B7rFhNas_bYetkU8w85ob13Ot-GmLUgOwCK8BGAsYHg/s0/2020-10-27.png" group-title="Musicales", Peña Visión TV
-https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="117683" tvg-name="Plaza TV" tvg-logo="https://lh3.googleusercontent.com/-ifZvOnMQsPo/X9pRIBAzhVI/AAAAAAAA8RU/GfTnGy_zuEkvSqqacNKxWUB_1kRsiRpuwCK8BGAsYHg/s0/2020-12-16.jpg" group-title="Musicales", Plaza TV
-https://tvstreaming.cl:1936/8158/8158/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="5USA HD" tvg-logo="" group-title="Musicales",5USA HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
-
-#EXTINF:-1 tvg-id="" tvg-name="XITEROCK" tvg-logo="" group-title="Musicales",XITEROCK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
-
-#EXTINF:-1 tvg-id="" tvg-name="XITEVIBE" tvg-logo="" group-title="Musicales",XITEVIBE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
-
-#EXTINF:-1 group-title="Arte", Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-
-#EXTINF:-1 tvg-logo="http://magneticproductions.files.wordpress.com/2010/11/mtv-dance.png" group-title="Musicales", MTV Dance
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" group-title="Musicales",Dancestar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
@@ -308,6 +284,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SztpK9s.png" group-title="Musicales",Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 
+#EXTINF:-1 tvg-id="126531" tvg-name="Wham TV" tvg-logo="https://lh3.googleusercontent.com/-Ch8kkgRHNHA/YBLumtwud3I/AAAAAAAA_eo/RiLzze_0hhYZ4iyMq6FwjeeqJ6eMJE6MACK8BGAsYHg/s0/2021-01-28.png" group-title="Musicales", Wham TV
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Musicales",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 
@@ -392,8 +371,26 @@ http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_fbcac3e81cb04000a0a6ca2702f72b22~mv2.jpg" group-title="Musicales",UMAG TV 
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="117683" tvg-name="Plaza TV" tvg-logo="https://lh3.googleusercontent.com/-ifZvOnMQsPo/X9pRIBAzhVI/AAAAAAAA8RU/GfTnGy_zuEkvSqqacNKxWUB_1kRsiRpuwCK8BGAsYHg/s0/2020-12-16.jpg" group-title="Musicales", Plaza TV
+https://tvstreaming.cl:1936/8158/8158/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="5USA HD" tvg-logo="" group-title="Musicales",5USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+
+#EXTINF:-1 group-title="Arte", Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-id="109611" tvg-name="Peña Visión TV" tvg-logo="https://lh3.googleusercontent.com/--6Jibb1WJOo/X5i6rpI7pTI/AAAAAAAA6yY/B7rFhNas_bYetkU8w85ob13Ot-GmLUgOwCK8BGAsYHg/s0/2020-10-27.png" group-title="Musicales", Peña Visión TV
+https://tvstreaming.cl:1936/PlanDjTv_15/PlanDjTv_15/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="" group-title="Musicales",REVOLT MUSIC
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/640
+
+#EXTINF:-1 tvg-id="" tvg-name="XITEROCK" tvg-logo="" group-title="Musicales",XITEROCK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+
+#EXTINF:-1 tvg-id="" tvg-name="XITEVIBE" tvg-logo="" group-title="Musicales",XITEVIBE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
 
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="VideoDJ", Yearmix2009
 https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
