@@ -18,9 +18,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="Musicales",Country Music 4U 
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="Musicales",Bluegrass 4U 
-https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="Musicales",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
@@ -41,6 +38,9 @@ https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="109802" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png" group-title="Musicales", Canal 38
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OndaDigitalPeru/picture?width=200&height=200" group-title="Musicales" tvg-name="Onda Digital Perú",Onda Digital Perú
+http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png" group-title="Musicales",Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
@@ -362,11 +362,11 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="94803" tvg-name="Zona Play Radio" tvg-logo="https://lh3.googleusercontent.com/-nYwjW5gyOHs/Xm_wyxoQZ8I/AAAAAAAAw-M/UivKYmyy1tMPqn_zDoQtMGFrmivibOCLgCK8BGAsYHg/s0/2020-03-16.jpg" group-title="Musicales", Zona Play Radio
 https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OndaDigitalPeru/picture?width=200&height=200" group-title="Musicales" tvg-name="Onda Digital Perú",Onda Digital Perú
-http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZmYKQxN.png" group-title="Musicales",Info TDN
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="Musicales",Bluegrass 4U 
+https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_fbcac3e81cb04000a0a6ca2702f72b22~mv2.jpg" group-title="Musicales",UMAG TV 
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
