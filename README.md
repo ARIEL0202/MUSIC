@@ -331,6 +331,108 @@ https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_fbcac3e81cb04000a0a6ca2702f72b22~mv2.jpg" group-title="Musicales",UMAG TV 
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/molaTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Mola TV España",Mola TV España
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" group-title="Musicales" tvg-name="Urban Revolution España",Urban Revolution España
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="Musicales" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/virginradioitaly/picture?width=200&height=200" group-title="Musicales" tvg-name="Virgin Radio Italia",Virgin Radio Italia IT
+https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioR101/picture?width=200&height=200" group-title="Musicales" tvg-name="R 101 Italia",R 101 Italia IT
+https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="Musicales" tvg-name="4FUN TV Polonia",4FUN TV Polonia PL
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio Italia TV",Radio Italia TV IT
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Chequia",Ocko Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Star Chequia",Ocko Star Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Expres Chequia",Ocko Expres Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" group-title="Musicales" tvg-name="ON TV Portugal",ON TV Portugal
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/1music/picture?width=200&height=200" group-title="Musicales" tvg-name="1 Music Hungria",1 Music Hungria
+http://1music.hu/1music.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/hitmusichu/picture?width=200&height=200" group-title="Musicales" tvg-name="Hit Music Hungria",Hit Music Hungria
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200" group-title="Musicales" tvg-name="V2Beat TV",V2Beat TV EN
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200" group-title="Musicales" tvg-name="Power TV Turquía",Power TV Turquía
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RADIO21germany/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio 21 Rock'n Pop Alemania",Radio 21 Rock'n Pop Alemania DE
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" group-title="Musicales" tvg-name="RadioU TV USA",RadioU TV USA EN
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="Musicales" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="Musicales" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200" group-title="Musicales" tvg-name="Ibiza Global TV",Ibiza Global TV EN
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Ditty TV USA",Ditty TV USA EN
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg" group-title="Musicales" tvg-name="Spirit TV USA",Spirit TV USA EN
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MUSICA TV LATINA
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8?OPT:http-reconnect=true
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xZSz9Yt.png" group-title="Canales Miscelaneos", Carina TV | HD
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q6dNJTO.png" group-title="Canales Miscelaneos", Jasmin TV | SD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FujAXo2.jpg" group-title="Canales Miscelaneos", Chaula TV (Latvia) | HD
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xsspfDW.png" group-title="Canales de Musica", Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CXbb7ai.jpg" group-title="Canales Italianos", TV2000 | SD
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HvnC5Ot.png" group-title="Canales Italianos", Studio 100 TV | SD
+http://wms.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8
+
+#EXTINF:-1 group-title="Without category",MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Without category",MUSICA:CHAU Tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+
+#EXTINF:-1 group-title="Without category",Videomix:SheepMix
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+
+
+
+
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="VideoDJ", Yearmix2009
 https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
 
