@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="Musicales",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="Musicales",RU TV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Musicales",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 
@@ -48,9 +45,6 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108423" tvg-name="Tele Mas" tvg-logo="https://lh3.googleusercontent.com/-oRoXxEpaRZI/Xx2FjB3C9RI/AAAAAAAA3b0/z0UFVUzwLI4WvZ3DMBvLGwyYCxYoCl3hgCK8BGAsYHg/s0/2020-07-26.png" group-title="Musicales", Tele Mas
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV EN
-https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="Musicales", Mezzo Live
 http://ott-cdn.ucom.am/s35/index.m3u8
 
@@ -71,12 +65,6 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Ditty TV USA",Ditty TV USA EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="Musicales",Hot Rock TV
-https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ws48Kto.png" group-title="Musicales",MVP TV
-https://nrpus.bozztv.com/36bay2/gusa-mvptv/index.m3u8
 
 #EXTINF:-1 tvg-id="97300" tvg-name="On Radio Kpop" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="Musicales", On Radio Kpop
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
@@ -129,8 +117,23 @@ https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/virginradioitaly/picture?width=200&height=200" group-title="Musicales" tvg-name="Virgin Radio Italia",Virgin Radio Italia IT
 https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioR101/picture?width=200&height=200" group-title="Musicales" tvg-name="R 101 Italia",R 101 Italia IT
+https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio Italia TV",Radio Italia TV IT
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="Musicales",RTP Sicilia
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CXbb7ai.jpg" group-title="Canales Italianos", TV2000 | SD
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HvnC5Ot.png" group-title="Canales Italianos", Studio 100 TV | SD
+http://wms.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8
+
+#EXTINF:-1 group-title="Italia",MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="117593" tvg-name="Radio La Serena" tvg-logo="https://lh3.googleusercontent.com/-2affU-29V2Y/X9X58uUQmwI/AAAAAAAA8KE/8IDizubOLnkf_aEYfUDjdS2wZhrGWWaawCK8BGAsYHg/s0/2020-12-13.png" group-title="Musicales", Radio La Serena
 https://streamyes.alsolnet.com/radioserena/live/playlist.m3u8?PlaylistM3UCL
@@ -138,38 +141,8 @@ https://streamyes.alsolnet.com/radioserena/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="Musicales",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="Musicales",Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200" group-title="Musicales",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="95520" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="126569" tvg-name="Mix 24-7 Puro Rock" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Puro Rock
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="116605" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Conciertos Live
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="108314" tvg-name="Mix 24-7 Top 100" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Top 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="111628" tvg-name="Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Tropical
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="111629" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Retro
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="111630" tvg-name="Mix 24-7 Pop" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="111631" tvg-name="Mix 24-7 Baladas" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Baladas
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="112843" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png" group-title="Musicales" , XTV Music
-https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="97299" tvg-name="On Radio Chile" tvg-logo="https://lh3.googleusercontent.com/-tWify_nqCRw/XlwOcKK-yiI/AAAAAAAAwg0/mYcxi6LPzmYoZVTyTAOF0VFqInihTPbhgCK8BGAsYHg/s0/2020-03-01.png" group-title="Musicales", On Radio Chile
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8?PlaylistM3UCL
@@ -238,23 +211,9 @@ https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Gen Z Serbia",Muzzik Gen Z Serbia
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Replay Serbia",Muzzik Replay Serbia
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik OKK Serbia",Muzzik OKK Serbia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Musicales",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Musicales",The Box
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SztpK9s.png" group-title="Musicales",Deutsches Musik Fernsehen
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
@@ -313,9 +272,6 @@ http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="Musicales",Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="116010" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png" group-title="Musicales", Bajo Cero TV
-https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" group-title="Musicales",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
@@ -333,45 +289,11 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/molaTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Mola TV España",Mola TV España
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" group-title="Musicales" tvg-name="Urban Revolution España",Urban Revolution España
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="Musicales" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/virginradioitaly/picture?width=200&height=200" group-title="Musicales" tvg-name="Virgin Radio Italia",Virgin Radio Italia IT
-https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioR101/picture?width=200&height=200" group-title="Musicales" tvg-name="R 101 Italia",R 101 Italia IT
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="Musicales" tvg-name="4FUN TV Polonia",4FUN TV Polonia PL
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio Italia TV",Radio Italia TV IT
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Chequia",Ocko Chequia CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Star Chequia",Ocko Star Chequia CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Expres Chequia",Ocko Expres Chequia CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" group-title="Musicales" tvg-name="ON TV Portugal",ON TV Portugal
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/1music/picture?width=200&height=200" group-title="Musicales" tvg-name="1 Music Hungria",1 Music Hungria
-http://1music.hu/1music.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/hitmusichu/picture?width=200&height=200" group-title="Musicales" tvg-name="Hit Music Hungria",Hit Music Hungria
-http://hitmusic.hu/hitmusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200" group-title="Musicales" tvg-name="V2Beat TV",V2Beat TV EN
 https://abr.de1se01.v2beat.live/playlist.m3u8
@@ -382,23 +304,11 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RADIO21germany/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio 21 Rock'n Pop Alemania",Radio 21 Rock'n Pop Alemania DE
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" group-title="Musicales" tvg-name="RadioU TV USA",RadioU TV USA EN
-https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="Musicales" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="Musicales" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200" group-title="Musicales" tvg-name="Ibiza Global TV",Ibiza Global TV EN
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Ditty TV USA",Ditty TV USA EN
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg" group-title="Musicales" tvg-name="Spirit TV USA",Spirit TV USA EN
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MUSICA TV LATINA
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8?OPT:http-reconnect=true
@@ -415,21 +325,14 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xsspfDW.png" group-title="Canales de Musica", Radio Contact Feel Good | HD
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CXbb7ai.jpg" group-title="Canales Italianos", TV2000 | SD
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HvnC5Ot.png" group-title="Canales Italianos", Studio 100 TV | SD
-http://wms.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8
-
-#EXTINF:-1 group-title="Without category",MUSICA:Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-
 #EXTINF:-1 group-title="Without category",MUSICA:CHAU Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
 #EXTINF:-1 group-title="Without category",Videomix:SheepMix
 https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
 
 
 
@@ -459,3 +362,59 @@ https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Pan
 
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="VideoDJ", The 90s EurodanceVideomix
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4  
+
+
+
+#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="Musicales",RU TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV EN
+https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="Musicales",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-id="95520" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="126569" tvg-name="Mix 24-7 Puro Rock" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Puro Rock
+http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="116605" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Conciertos Live
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="108314" tvg-name="Mix 24-7 Top 100" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Top 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="111628" tvg-name="Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Tropical
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="111629" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Retro
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="111630" tvg-name="Mix 24-7 Pop" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Pop
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="111631" tvg-name="Mix 24-7 Baladas" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Baladas
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="112843" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png" group-title="Musicales" , XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Gen Z Serbia",Muzzik Gen Z Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Replay Serbia",Muzzik Replay Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Musicales",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Musicales",The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+#EXTINF:-1 tvg-id="116010" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png" group-title="Musicales", Bajo Cero TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+
