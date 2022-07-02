@@ -155,31 +155,11 @@ https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MUSICA TV LATINA
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8?OPT:http-reconnect=true
 
-
-
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xZSz9Yt.png" group-title="Canales Miscelaneos", Carina TV | HD
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Q6dNJTO.png" group-title="Canales Miscelaneos", Jasmin TV | SD
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FujAXo2.jpg" group-title="Canales Miscelaneos", Chaula TV (Latvia) | HD
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xsspfDW.png" group-title="Canales de Musica", Radio Contact Feel Good | HD
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-
-#EXTINF:-1 group-title="Without category",MUSICA:CHAU Tv
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-
 #EXTINF:-1 group-title="Without category",Videomix:SheepMix
 https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", TMTV
-http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
-
-
 
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="VideoDJ", Yearmix2009
 https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
@@ -208,66 +188,9 @@ https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Pan
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="VideoDJ", The 90s EurodanceVideomix
 https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4  
 
-
-
-#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="Musicales",RU TV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV EN
-https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="Musicales",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-id="95520" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="126569" tvg-name="Mix 24-7 Puro Rock" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Puro Rock
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="116605" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Conciertos Live
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="108314" tvg-name="Mix 24-7 Top 100" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Top 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="111628" tvg-name="Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Tropical
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="111629" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Retro
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="111630" tvg-name="Mix 24-7 Pop" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="111631" tvg-name="Mix 24-7 Baladas" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="Musicales", Mix 24-7 Baladas
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="112843" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png" group-title="Musicales" , XTV Music
-https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Gen Z Serbia",Muzzik Gen Z Serbia
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Replay Serbia",Muzzik Replay Serbia
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Musicales",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Musicales",The Box
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-
-#EXTINF:-1 tvg-id="116010" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png" group-title="Musicales", Bajo Cero TV
-https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="78105" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png" group-title="Musicales", Ruidos TV
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musicales", VC Online HD
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
