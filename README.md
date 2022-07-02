@@ -196,41 +196,7 @@ http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="140325" tvg-name="MusicTop" tvg-logo="http://www.diario26.com/images/musictop_logo.png" group-title="Musica", MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="140319" tvg-name="ECUA STEREO" tvg-logo="https://lh3.googleusercontent.com/e5U_Sx-Wxt2Ltg61g146DLWmkQC0tGvw0kJxsZ-h4Nj-lWxrGVthqZ9sXCFdm_JhYwgF" group-title="ECUADOR", ECUA STEREO
-https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1213260692.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="141064" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png" group-title="Musica", XTV Music
-https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="141063" tvg-name="El Galpon 80" tvg-logo="https://lh3.googleusercontent.com/-ZhVxctNbhbM/YH2g1ESaUAI/AAAAAAABBtY/CJuILsc-u_kfRfDmtrMOuzVIwH9oT_WSwCK8BGAsYHg/s512/2021-04-19.png" group-title="Regionales", El Galpon 80
-https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="139642" tvg-name="V2BEAT" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="00 - Argentina", V2BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="138219" tvg-name="MELODY CHANNEL" tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="00 - Argentina", MELODY CHANNEL
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,MAD TV VIP GR
-http://ipflix.click:8080/Ester/s9mdb4ez9y/685804
-
-#EXTINF:-1,Stingray iConcerts FHD VIP GR
-http://ipflix.click:8080/Ester/s9mdb4ez9y/685800
-
-#EXTINF:-1,Mezzo VIP GR
-http://ipflix.click:8080/Ester/s9mdb4ez9y/685797
-
-#EXTINF:-1,Classica HD DE
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13167
-
-#EXTINF:-1,Jukebox DE
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13148
-
-#EXTINF:-1,Deluxe Music HD DE
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6255
-
-#EXTINF:-1,MTV FHD DE
-http://ipflix.click:8080/Ester/s9mdb4ez9y/35466
 
 #EXTINF:-131 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
