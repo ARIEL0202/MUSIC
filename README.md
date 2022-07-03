@@ -208,105 +208,24 @@ http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/NjtP8Ydp/rrr.png" group-title="MÚSICA", RECUERDOS RETRO RADIO
 https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w47191896.m3u8
 
-
-
-
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC EVERYTHING 80'S
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
-
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC CLASSIC ROCK
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
-
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC GREATEST HITS
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/768x432_690800/chunklist.m3u8
-
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC HIT LIST
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/768x432_690800/chunklist.m3u8
-
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC HOT COUNTRY
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/768x432_690800/chunklist.m3u8
-
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC KARAOKE
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/640x360_981200/chunklist.m3u8
-
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC SOUL STORM
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/768x432_690800/chunklist.m3u8
-
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/W1XBjtRL/STINGRAY_CONCIERTOS.png" group-title="MÚSICA", STINGRAY CONCIERTOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb1260-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0734995-d0cf-4ff8-998e-187b9668e54d&userId=&serverSideAds=true
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/mryXsgPf/KARAOKE.png" group-title="MÚSICA", STINGRAY KARAOKE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb3970-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5f77d11c-2e1e-44e3-8b82-410880ecd4ab&userId=&serverSideAds=true
 
-#EXTINF:-422 tvg-logo="https://i.postimg.cc/PqqWjrX3/tributovalentina.jpg" group-title="MÚSICA", RADIO TRIBUTO VALENTINA
-https://tvstreaming.cl:1936/8124/8124/chunklist_w436967250.m3u8?WebM3UCL
-
 #EXTINF:-424 tvg-logo="https://i.postimg.cc/kG5GVDHz/videotourchannel.jpg" group-title="MÚSICA", VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
-
-#EXTINF:-428 tvg-logo="https://i.postimg.cc/FKsHCYrR/canal38.jpg" group-title="MÚSICA", CANAL 38
-https://rtmp.info/canal38/envivo/chunklist_w1467177433.m3u8
-
-#EXTINF:-429 tvg-logo="https://i.postimg.cc/529gzbVw/latido.jpg" group-title="MÚSICA", LATIDO TV
-https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/1280x720_2890800/index.m3u8
 
 #EXTINF:-434 tvg-logo="https://i.postimg.cc/ryPd3C3r/videorola.png" group-title="MÚSICA", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
-#EXTINF:-434 tvg-logo="https://i.postimg.cc/fbb1Z8mm/zappingmssic.jpg" group-title="MÚSICA", ZAPPING MUSIC
-https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_1_sles.m3u8
-
-#EXTINF:-435 tvg-logo="https://i.postimg.cc/KvTYVXt6/v2beat.png" group-title="MÚSICA", V2BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8
-
 #EXTINF:-438 tvg-logo="https://i.postimg.cc/CL9ch8BZ/1853-294x165-FFFFFF.png" group-title="MÚSICA", HITS 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-
-#EXTINF:-438 tvg-logo="https://i.postimg.cc/kGzv5r4r/tele_mas.png" group-title="MÚSICA", TELE MÁS
-https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
 #EXTINF:-1 tvg-id="140336" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="Musica", Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="Sesion Regaeton Dembow - Dj Erick Prado Chile" tvg-logo="http://51.222.43.170:36995/images/824335f343aad6b552d5f8cc8f96f934.jpeg" group-title="MUSICA VIDEO MIX",Sesion Regaeton Dembow - Dj Erick Prado Chile
-http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/263859.mp4
-
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Classic Rock (1080p)
-https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDBf/Stingray-Classica_450x450.png" group-title="Canada",Stingray Classica (1080p)
-https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
 #EXTINF:-1 tvg-id="StingrayDjazz.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Canada",Stingray Djazz (1080p)
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 tvg-id="Stingraydjazz.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDFf/Stingray-DJazz_400x400.png" group-title="Canada",Stingray djazz (1080p)
-https://stirr.ott-channels.stingray.com/djazz/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90d2dbf6-a533-4cc1-b1a3-6196c40efb16-small3x1_STIRR_LOGO_0220_StingrayEverything80s_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Everything 80s (1080p)
-https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4b83571f-2374-4e84-a27b-e772b0c94c51-small3x1_stirr_1219_epg_stingrayflashback70s_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Flashback 70s (1080p)
-https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Greatest Hits (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHitlist.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Hitlist (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Canada",Stingray Holiday Hits (1080p)
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2dac750-5e2b-4107-a037-6467fca68e93-small3x1_stirr_1219_epg_stingrayhotcountry_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Hot Country (1080p)
-https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Karaoke (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (1080p)
-https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraokeAustralia.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (Australia) (1080p)
-https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraokeSweden.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (Sweden) (1080p)
-https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayKarokeNetherland.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karoke (Netherland) (1080p)
-https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayQelloConcerts.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Qello Concerts (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Soul Storm (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-26 tvg-logo="https://i.postimg.cc/g0HSp9SS/frutillar_fm.png" group-title="NACIONALES", FRUTILLAR FM
-https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
