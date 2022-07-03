@@ -196,43 +196,19 @@ http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="140325" tvg-name="MusicTop" tvg-logo="http://www.diario26.com/images/musictop_logo.png" group-title="Musica", MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
-
-
-#EXTINF:-131 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 8
-http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
-
 #EXTINF:-20 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="NACIONALES", KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 
 #EXTINF:-23 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="NACIONALES", ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
-#EXTINF:-26 tvg-logo="https://i.postimg.cc/g0HSp9SS/frutillar_fm.png" group-title="NACIONALES", FRUTILLAR FM
-https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
-
 #EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
-
-#EXTINF:-26 tvg-logo="https://play-lh.googleusercontent.com/DAgKwTGXnOAkopAV11A5FXIYipr7xqXpGZEQxvZgJb-qc8P1EkBrD6thXgsL5IbzspI" group-title="NACIONALES", TAPUA TV
-https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
-
-#EXTINF:-403 tvg-logo="https://i.postimg.cc/6Qm2KWS0/telemusica.png" group-title="MÚSICA", TELEMÚSICA
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
-
-#EXTINF:-404 tvg-logo="" group-title="MÚSICA", RADIOTECA TV
-https://tvstreaming.cl:1936/8042/8042/chunklist_w1750701715.m3u8
-
-#EXTINF:-404 tvg-logo="https://i.postimg.cc/90vYQPnL/mdlm.jpg" group-title="MÚSICA", MUNDO DE LA MÚSICA TV
-https://tv.streamingchilenos.com:1936/8034/8034/chunklist_w1427082379.m3u8
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/NjtP8Ydp/rrr.png" group-title="MÚSICA", RECUERDOS RETRO RADIO
 https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w47191896.m3u8
 
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/cC2PnTqN/vevo70s.png" group-title="MÚSICA", VEVO 70'S
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
 
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/7LLvj5nd/vevo80s.png" group-title="MÚSICA", VEVO 80'S
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/wvsrdLyf/vevo90s.png" group-title="MÚSICA", VEVO 90'S
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
@@ -350,3 +326,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
 #EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Soul Storm (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-26 tvg-logo="https://i.postimg.cc/g0HSp9SS/frutillar_fm.png" group-title="NACIONALES", FRUTILLAR FM
+https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
