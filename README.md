@@ -17,7 +17,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="Musicales",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
+    
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="Musicales",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
