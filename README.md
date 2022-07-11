@@ -10,6 +10,9 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/MG9PBtRr/equalplay.png" group-title="MÚSICA", CMT EQUAL PLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
+#EXTINF:-1, VIET MTV www.achoAPPS.com
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.stream2watch.org/images/streams/583/600x400/14646084364783.png" group-title="Musicales",KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
 
@@ -90,9 +93,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rockfmro/picture?width=200&height=200" group-title="Musicales" tvg-name="Rock TV Romania",Rock TV Romania RO
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="Musicales" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
-http://hz1.teleport.cc/HLS/HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik TV Serbia",Muzzik TV Serbia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
@@ -149,7 +149,7 @@ http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" group-title="Musicales",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/molaTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Mola TV España",Mola TV España
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8E32gZmAAoZKpulLeHt4JVK_V2EPldRN-6u1roxa2V01W_ADCMrNrhkDqYLRVwRMLRg&usqp=CAU" group-title="MUSICA", MOLA TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200" group-title="Musicales" tvg-name="Power TV Turquía",Power TV Turquía
