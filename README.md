@@ -17,7 +17,7 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Musicales",QMusic 100.7 FM Amsterdam https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-
+      
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bh8rmNJ.png" group-title="Musicales",Tierramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
     
