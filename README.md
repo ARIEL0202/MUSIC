@@ -1,3 +1,12 @@
+#EXTINF:-1,MIMUSICA ROMANTICA
+http://181.78.8.90:16123/play/ch54
+
+#EXTINF:-1,HTV
+http://181.78.8.90:16123/play/a08x
+
+#EXTINF:-1,MIGENTE
+http://181.78.8.90:16123/play/a06b
+
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/wvGLLC1b/vh1classics.png" group-title="MÚSICA", VH1 CLASSICS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
 
@@ -110,24 +119,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079
 #EXTINF:-424 tvg-logo="https://i.postimg.cc/kG5GVDHz/videotourchannel.jpg" group-title="MÚSICA", VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
 
-#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="Musicales", Mezzo Live
-http://ott-cdn.ucom.am/s35/index.m3u8
-
-#EXTINF:-1,MIMUSICA REGAETON
-http://181.78.8.90:16123/play/ch53
-#EXTINF:-1,MIMUSICA ROMANTICA
-http://181.78.8.90:16123/play/ch54
 #EXTINF:-1,MIMUSICA SALSA
 http://181.78.8.90:16123/play/ch55
 #EXTINF:-1,MIMUSICA POPULAR
 http://181.78.8.90:16123/play/ch56
-#EXTINF:-1,LA KALLE
-http://181.78.8.90:16123/play/ch41
 #EXTINF:-1,CONEXION
 http://181.78.8.90:16123/play/ch15
-#EXTINF:-1,EL TIEMPO
-http://181.78.8.90:16123/play/ch42
-#EXTINF:-1,HTV
-http://181.78.8.90:16123/play/a08x
-#EXTINF:-1,MIGENTE
-http://181.78.8.90:16123/play/a06b
+#EXTINF:-1,MIMUSICA REGAETON
+http://181.78.8.90:16123/play/ch53
+
+#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="Musicales", Mezzo Live
+http://ott-cdn.ucom.am/s35/index.m3u8
