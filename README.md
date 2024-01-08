@@ -118,7 +118,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079
 
 #EXTINF:-424 tvg-logo="https://i.postimg.cc/kG5GVDHz/videotourchannel.jpg" group-title="MÚSICA", VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
-
+       
 #EXTINF:-1,MIMUSICA SALSA
 http://181.78.8.90:16123/play/ch55
 #EXTINF:-1,MIMUSICA POPULAR
