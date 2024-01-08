@@ -112,3 +112,22 @@ http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
 
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="Musicales", Mezzo Live
 http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1,MIMUSICA REGAETON
+http://181.78.8.90:16123/play/ch53
+#EXTINF:-1,MIMUSICA ROMANTICA
+http://181.78.8.90:16123/play/ch54
+#EXTINF:-1,MIMUSICA SALSA
+http://181.78.8.90:16123/play/ch55
+#EXTINF:-1,MIMUSICA POPULAR
+http://181.78.8.90:16123/play/ch56
+#EXTINF:-1,LA KALLE
+http://181.78.8.90:16123/play/ch41
+#EXTINF:-1,CONEXION
+http://181.78.8.90:16123/play/ch15
+#EXTINF:-1,EL TIEMPO
+http://181.78.8.90:16123/play/ch42
+#EXTINF:-1,HTV
+http://181.78.8.90:16123/play/a08x
+#EXTINF:-1,MIGENTE
+http://181.78.8.90:16123/play/a06b
