@@ -110,12 +110,5 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079
 #EXTINF:-424 tvg-logo="https://i.postimg.cc/kG5GVDHz/videotourchannel.jpg" group-title="MÚSICA", VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="Musicales", Mezzo Live
 http://ott-cdn.ucom.am/s35/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200" group-title="Musicales" tvg-name="Power TV Turquía",Power TV Turquía
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-
-#EXTINF:-23 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="NACIONALES", ESTACIÓN CRISTAL TV
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
