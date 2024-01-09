@@ -7,6 +7,9 @@ http://181.78.8.90:16123/play/a08x
 #EXTINF:-1,MIGENTE
 http://181.78.8.90:16123/play/a06b
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/wvGLLC1b/vh1classics.png" group-title="MÚSICA", VH1 CLASSICS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
 
